@@ -3,7 +3,7 @@
 baseURL = "https://suryanshgitmenongit.github.io/hugo-bearblog/"
 
 # The name of this wonderful theme ;-).
-theme = '..'
+theme = "hugo-bearblog"
 
 # Basic metadata configuration for your blog.
 title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
